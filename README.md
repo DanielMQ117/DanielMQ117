@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Frameworks</h3>
-<p align="left">
+<p align="left" style="background-color: #ffffff;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Tools 🛠</h3>
-<p align="left">
+<p align="left" style="background-color: #ffffff;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
@@ -64,6 +64,6 @@ Here are some ideas to get you started:
 
 <h2>Github stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMQ117&hide_title=false&hide_rank=false&rank_icon=github&bg_color=30,ff902f,9e6097&show_icons=true&icon_color=ffff00&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielMQ117&locale=en&hide_title=false&bg_color=30,9e6097,942fff&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=false&exclude_repo=Next_Dashboard" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielMQ117&hide_title=false&hide_rank=false&rank_icon=github&bg_color=30,ff902f,c55e89&show_icons=true&icon_color=ffff00&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielMQ117&locale=en&hide_title=false&bg_color=30,c55e89,8a2be2&layout=compact&card_width=320&langs_count=5&theme=ambient_gradient&hide_border=false&exclude_repo=Next_Dashboard" height="150" alt="languages graph"/>
 </div>
